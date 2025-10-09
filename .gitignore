@@ -1,0 +1,63 @@
+# ===============================================
+# .gitignore para proyectos C# / .NET (VS Code o Visual Studio)
+# ===============================================
+
+# Archivos de compilación
+bin/
+obj/
+out/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+
+# Archivos de publicación y temporales
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos de configuración locales
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+# Archivos de dependencias (si usas paquetes NuGet)
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Configuración de Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos generados por .NET
+*.generated.cs
+*.g.cs
+*.AssemblyInfo.cs
+*.AssemblyAttributes.cs
+
+# Cobertura de pruebas / testing
+coverage/
+*.coverage
+*.coveragexml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de publicación
+publish/
