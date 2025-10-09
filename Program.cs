@@ -21,11 +21,11 @@ namespace SorteoDeHermanos
             string rutaArchivo = BuscarRutaArchivo("Hermanos.txt");
 
             List<string> nombres = ObtenerNombres(rutaArchivo);
-            ImprimirNombres(nombres);
+            //ImprimirNombres(nombres);
 
             List<string> nombresSorteados = SortearNombres(nombres);
             ReescribirArchivo(nombresSorteados, rutaArchivo);
-            ImprimirNombres(nombresSorteados);
+            //ImprimirNombres(nombresSorteados);
         }
 
         /// <summary>
