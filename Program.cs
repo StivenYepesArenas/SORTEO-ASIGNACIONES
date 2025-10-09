@@ -8,18 +8,39 @@ namespace REUNIONES
     {
         static void Main(string[] args)
         {
-            string rutaArchivo = "C:\\Users\\Estiven Yepes\\Documents\\CONGREGACION\\SORTEO HERMANOS\\Hermanos.txt";
+            string rutaArchivo = BuscarRutaArchivo("Hermanos.txt");
 
             List<string> nombres = ObtenerNombres(rutaArchivo);
-            Console.WriteLine("Nombres originales:");
             ImprimirNombres(nombres);
 
             List<string> nombresSorteados = SortearNombres(nombres);
-
-            nombres = ReescribirArchivo(nombresSorteados, rutaArchivo);
-            Console.WriteLine("Nombres reescritos:");
+            ReescribirArchivo(nombresSorteados, rutaArchivo);
             ImprimirNombres(nombres);
+            
+
         }
+
+        static string BuscarRutaArchivo(string nombreArchivo)
+        {
+            string directorioActual = AppDomain.CurrentDomain.BaseDirectory;
+
+            // Buscamos hacia arriba hasta encontrar la carpeta del proyecto
+            while (!string.IsNullOrEmpty(directorioActual) &&
+                   !File.Exists(Path.Combine(directorioActual, "SORTEO HERMANOS.csproj")))
+            {
+                directorioActual = Directory.GetParent(directorioActual)?.FullName ?? "";
+            }
+
+            if (string.IsNullOrEmpty(directorioActual))
+            {
+                throw new DirectoryNotFoundException("No se encontró la carpeta del proyecto.");
+            }
+
+            string rutaArchivo = Path.Combine(directorioActual, "Data", nombreArchivo);
+            return rutaArchivo;
+        }
+
+
 
         static List<string> ObtenerNombres(string rutaArchivo)
         {
