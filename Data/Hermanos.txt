@@ -14,12 +14,8 @@ Sherly Rodriguez
 Juan D Arias
 Ronald Chavez
 Karolina Chavez
-Luciana Castrillon
-Sofia Uribe
-Kelvin Padilla
+Sofia Rodas
 Jose David Celis
-Cristian Castro
-Jorge Morales
 Marina Rivera
 Shenoa Toro
 Estella Arias
@@ -30,6 +26,7 @@ Elda Ramirez
 Mary Arias
 Gloria Benitez
 Elba Cañas
+Luciana Castrillon
 Yajaira Celis
 Monica Castrillon
 Luz Mallely Giraldo
@@ -37,8 +34,12 @@ Zubrailiz Martinez
 Wilmer Rodriguez
 Estefania Uribe
 Margarita Ochoa
+Kelvin Padilla
+Sofia Uribe
 Herminia Garcia
 Elvia Fernandez
+Cristian Castro
+Jorge Morales
 Estegany Hernandez
 Yineth Yepes
 Helly Hernandez

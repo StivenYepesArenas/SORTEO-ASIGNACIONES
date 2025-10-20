@@ -110,7 +110,7 @@ namespace SorteoDeHermanos
             {
                 for (int i = 0; i < listaDeNombres.Count; i++)
                 {
-                    if (i < 3)
+                    if (i < 22)
                         copiaNombres.Add(listaDeNombres[i]);
                     else
                         copiaNombres.Insert(0, listaDeNombres[i]);
