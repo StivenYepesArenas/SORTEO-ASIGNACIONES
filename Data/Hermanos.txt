@@ -1,16 +1,11 @@
-Dora Vallejo
-Ana Cecilia Hincapie
-Marisol Marulanda
 Nicole Hernandez
 Marlyn Gomez
 Patricia Rivas
 Rosa Mendez
-Esbany Gonzalez
 Margarita Muñoz
 Gloria Castrillon
 Astrid Cano
 Samanta Rivas
-Sherly Rodriguez
 Xavier Martines
 Juan D Arias
 Ronald Chavez
@@ -21,16 +16,16 @@ Marina Rivera
 Shenoa Toro
 Estella Arias
 Luz Eucaris
-Mary Tibanta
+Esbany Gonzalez
 Elda Ramirez
 Margarita Ocampo
-Mary Arias
 Gloria Benitez
 Elba Cañas
 Luciana Castrillon
 Yajaira Celis
 Monica Castrillon
 Luz Mallely Giraldo
+Marisol Marulanda
 Zubrailiz Martinez
 Wilmer Rodriguez
 Estefania Uribe
@@ -39,6 +34,11 @@ Kelvin Padilla
 Sofia Uribe
 Herminia Garcia
 Elvia Fernandez
+Ana Cecilia Hincapie
+Sherly Rodriguez
+Mary Arias
+Mary Tibanta
+Dora Vallejo
 Cristian Castro
 Jorge Morales
 Estegany Hernandez
