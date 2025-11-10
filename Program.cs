@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-
-namespace SorteoDeHermanos
+﻿namespace SorteoDeHermanos
 {
     /// <summary>
     /// Clase principal del programa que gestiona la lectura, ordenamiento
@@ -110,7 +106,7 @@ namespace SorteoDeHermanos
             {
                 for (int i = 0; i < listaDeNombres.Count; i++)
                 {
-                    if (i < 22)
+                    if (i < 28)
                         copiaNombres.Add(listaDeNombres[i]);
                     else
                         copiaNombres.Insert(0, listaDeNombres[i]);
