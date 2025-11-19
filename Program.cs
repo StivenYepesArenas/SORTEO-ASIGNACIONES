@@ -106,7 +106,7 @@
             {
                 for (int i = 0; i < listaDeNombres.Count; i++)
                 {
-                    if (i < 28)
+                    if (i < 23)
                         copiaNombres.Add(listaDeNombres[i]);
                     else
                         copiaNombres.Insert(0, listaDeNombres[i]);
