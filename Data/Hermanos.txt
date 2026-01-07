@@ -1,3 +1,41 @@
+Herminia Garcia
+Fernanda Santa
+Elvia Fernandez
+Ana Cecilia Hincapie
+Mary Arias
+Yajaira Celis
+Cristian Castro
+Luz Mallely Giraldo
+Jorge Morales
+Estefany Hernandez
+Hugo Hernandez
+Yineth Yepes
+Helly Hernandez
+Esbany Gonzalez
+Catheryn Hernandez
+Carolay Padilla
+Daniela Manjarrez
+Shirley Mendez
+Yackeline Benitez
+Ronald Chavez
+Jose David Celis
+Lina Henao
+Sherly Rodriguez
+Duber Bedolla
+Maria Victoria Salazar
+Yuneira Koromoto
+Zubrailiz Martinez
+Marlyn Gomez
+Catalina Diaz
+Laura Henao
+Nathaly Castro
+Jhon Arias
+Desire Castillo
+Samanta Rivas
+Kelvin Padilla
+Margarita Ochoa
+Wilmer Rodriguez
+Mary Tibanta
 Gloria Benitez
 Margarita Ocampo
 Luz Eucaris
@@ -19,41 +57,3 @@ Gloria Castrillon
 Wilmar Gomez
 Rosa Mendez
 Patricia Rivas
-Mary Tibanta
-Wilmer Rodriguez
-Margarita Ochoa
-Kelvin Padilla
-Samanta Rivas
-Desire Castillo
-Jhon Arias
-Nathaly Castro
-Laura Henao
-Catalina Diaz
-Marlyn Gomez
-Zubrailiz Martinez
-Yuneira Koromoto
-Maria Victoria Salazar
-Duber Bedolla
-Sherly Rodriguez
-Lina Henao
-Jose David Celis
-Ronald Chavez
-Yackeline Benitez
-Shirley Mendez
-Daniela Manjarrez
-Carolay Padilla
-Catheryn Hernandez
-Esbany Gonzalez
-Helly Hernandez
-Yineth Yepes
-Hugo Hernandez
-Estefany Hernandez
-Jorge Morales
-Luz Mallely Giraldo
-Cristian Castro
-Yajaira Celis
-Mary Arias
-Ana Cecilia Hincapie
-Elvia Fernandez
-Fernanda Santa
-Herminia Garcia
