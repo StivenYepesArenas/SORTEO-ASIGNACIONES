@@ -1,14 +1,50 @@
+Liceth Delgado
+Shirley Mendez
+Daniela Manjarrez
+Carolay Padilla
+Mary Tibanta
+Marlyn Gomez
+Kelvin Padilla
+Maria Victoria Salazar
+Nathaly Castro
+Yineth Yepes
+Cristian Castro
+Daniel Manjarrez
+Estefany Hernandez
+Jorge Morales
+Astrid Cano
+Luz Mallely Giraldo
+Yajaira Celis
+Mary Arias
+Ana Cecilia Hincapie
+Fernanda Santa
+Herminia Garcia
+Yackeline Benitez
+Sherly Rodriguez
+Duber Bedolla
+Yuneira Koromoto
+Zubrailiz Martinez
+Catalina Diaz
+Jhon Arias
+Wilmer Rodriguez
+Margarita Ochoa
+Gloria Benitez
 Patricia Rivas
-Rosa Mendez
 Wilmar Gomez
 Gloria Castrillon
+Jose David Celis
+Esbany Gonzalez
 Astrid Cano
 Xavier Martines
 Daniel Sierrea
 Karolina Chavez
 Sofia Rodas
+Samanta Rivas
 Marisol Marulanda
 Elba Cañas
+Ronald Chavez
+Rosa Mendez
+Elvia Fernandez
 Esteban Mendez
 Sofia Uribe
 Marina Rivera
@@ -16,41 +52,5 @@ Estefany Hernandez
 Shenoa Toro
 Estella Arias
 Estefania Uribe
-Helly Hernandez
 Luz Eucaris
 Margarita Ocampo
-Gloria Benitez
-Margarita Ochoa
-Kelvin Padilla
-Jhon Arias
-Laura Henao
-Catalina Diaz
-Zubrailiz Martinez
-Yuneira Koromoto
-Maria Victoria Salazar
-Duber Bedolla
-Sherly Rodriguez
-Ronald Chavez
-Samanta Rivas
-Yackeline Benitez
-Herminia Garcia
-Fernanda Santa
-Elvia Fernandez
-Ana Cecilia Hincapie
-Mary Arias
-Yajaira Celis
-Cristian Castro
-Luz Mallely Giraldo
-Jorge Morales
-Jose David Celis
-Estefany Hernandez
-Wilmer Rodriguez
-Yineth Yepes
-Nathaly Castro
-Esbany Gonzalez
-Marlyn Gomez
-Mary Tibanta
-Carolay Padilla
-Daniela Manjarrez
-Shirley Mendez
-Liceth Delgado
